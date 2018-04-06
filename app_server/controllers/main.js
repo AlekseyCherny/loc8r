@@ -1,3 +1,3 @@
 module.exports.index = function(req,res){
-    res.render('index',{title: 'Aleks Got'})
+    res.render('index',{title: 'Aleks , come here'})
 }
